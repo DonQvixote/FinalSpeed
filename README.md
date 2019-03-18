@@ -18,7 +18,7 @@ service iptables save
 
 rm -f install_fs.sh
 
-wget https://raw.githubusercontent.com/DonQvixote/FinalSpeed/master/install_fs.sh
+wget https://raw.githubusercontent.com/KorudoKyatto/FinalSpeed/master/install_fs.sh
 
 chmod +x install_fs.sh
 
